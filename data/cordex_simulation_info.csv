@@ -1,0 +1,73 @@
+Point of Contact (PoC) / email,Model,Runs done,ECS,Time period,Resolution,Domain,Data Access
+John Scinocca  john.scinocca @ec.gc.ca,CanRCM4,ERA-Interim,,1989-2009,"0.44, 0.22",Standard,CCCMA website
+John Scinocca  john.scinocca @ec.gc.ca,CanRCM4,CanESM2,3.7,,"0.44, 0.22",Standard,CCCMA website
+John Scinocca  john.scinocca @ec.gc.ca,CanRCM4,hist. (r1i1p1),3.7,1950-2005,"0.44, 0.22",Standard,CCCMA website
+John Scinocca  john.scinocca @ec.gc.ca,CanRCM4,8.5 (r1i1p1),3.7,2006-2100,"0.44, 0.22",Standard,CCCMA website
+John Scinocca  john.scinocca @ec.gc.ca,CanRCM4,4.5 (r1i1p1),3.7,2006-2100,"0.44, 0.22",Standard,CCCMA website
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),ERA-Interim,,1979-2012,0.44,Same as CRCM5 (UQAM),Email PoC
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),CanESM2,3.7,,0.22,Same as CRCM5 (UQAM),Email PoC
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),hist. (r1i1p1),3.7,1950-2005,0.22,Same as CRCM5 (UQAM),Email PoC
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),8.5 (r1i1p1)*,3.7,2006-2099,0.22,Same as CRCM5 (UQAM),Email PoC
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),MPI-ESM-LR,3.6,,0.22,Same as CRCM5 (UQAM),Email PoC
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),hist. (r1i1p1),3.6,1950-2005,0.22,Same as CRCM5 (UQAM),Email PoC
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),8.5 (r1i1p1),3.6,2006-2099,0.22,Same as CRCM5 (UQAM),Email PoC
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),CNRM-CM5,3.3,,0.22,Same as CRCM5 (UQAM),Email PoC
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),hist. (r1i1p1),3.3,1950-2005,0.22,Same as CRCM5 (UQAM),Email PoC
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),4.5 (r1i1p1),3.3,2006-2100,0.22,Same as CRCM5 (UQAM),Email PoC
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),8.5 (r1i1p1),3.3,2006-2100,0.22,Same as CRCM5 (UQAM),Email PoC
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),GFDL-ESM2M,2.4,,0.22,Same as CRCM5 (UQAM),Email PoC
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),hist. (r1i1p1),2.4,1950-2005,0.22,Same as CRCM5 (UQAM),Email PoC
+Sébastien Biner  biner.sebastien @ouranos.ca,CRCM5 (OURANOS),8.5 (r1i1p1),2.4,2006-2099,0.22,Same as CRCM5 (UQAM),Email PoC
+Katja Winger  winger.katja @uqam.ca,CRCM5 (UQAM),ERA40,,1958-1978,"0.44, 0.22, 0.11",Rotated polar 	7.5 degrees 	larger to E 	6.6 degrees  larger N-S,Email PoC FTP site planned
+Katja Winger  winger.katja @uqam.ca,CRCM5 (UQAM),ERA-Interim,,1979-2013,"0.44, 0.22, 0.11",Rotated polar 	7.5 degrees 	larger to E 	6.6 degrees  larger N-S,Email PoC FTP site planned
+Katja Winger  winger.katja @uqam.ca,CRCM5 (UQAM),CanESM2,3.7,,,Rotated polar 	7.5 degrees 	larger to E 	6.6 degrees  larger N-S,Email PoC FTP site planned
+Katja Winger  winger.katja @uqam.ca,CRCM5 (UQAM),hist. (r1i1p1),3.7,1950-2005,"0.44, 0.22",Rotated polar 	7.5 degrees 	larger to E 	6.6 degrees  larger N-S,Email PoC FTP site planned
+Katja Winger  winger.katja @uqam.ca,CRCM5 (UQAM),4.5 (r1i1p1),3.7,2006-2100,0.44,Rotated polar 	7.5 degrees 	larger to E 	6.6 degrees  larger N-S,Email PoC FTP site planned
+Katja Winger  winger.katja @uqam.ca,CRCM5 (UQAM),8.5 (r1i1p1),3.7,2006-2100,"0.44, 0.22",Rotated polar 	7.5 degrees 	larger to E 	6.6 degrees  larger N-S,Email PoC FTP site planned
+Katja Winger  winger.katja @uqam.ca,CRCM5 (UQAM),MPI-ESM-LR,3.6,,,Rotated polar 	7.5 degrees 	larger to E 	6.6 degrees  larger N-S,Email PoC FTP site planned
+Katja Winger  winger.katja @uqam.ca,CRCM5 (UQAM),hist. (r1i1p1),3.6,1949-2005,"0.44, 0.22",Rotated polar 	7.5 degrees 	larger to E 	6.6 degrees  larger N-S,Email PoC FTP site planned
+Katja Winger  winger.katja @uqam.ca,CRCM5 (UQAM),4.5 (r1i1p1),3.6,2006-2100,0.44,Rotated polar 	7.5 degrees 	larger to E 	6.6 degrees  larger N-S,Email PoC FTP site planned
+Katja Winger  winger.katja @uqam.ca,CRCM5 (UQAM),8.5 (r1i1p1),3.6,2006-2100,"0.44, 0.22",Rotated polar 	7.5 degrees 	larger to E 	6.6 degrees  larger N-S,Email PoC FTP site planned
+Katja Winger  winger.katja @uqam.ca,CRCM5 (UQAM),MPI-ESM-MR,3.4,,"0.44, 0.22",Rotated polar 	7.5 degrees 	larger to E 	6.6 degrees  larger N-S,Email PoC FTP site planned
+Katja Winger  winger.katja @uqam.ca,CRCM5 (UQAM),hist. (r1i1p1),3.4,1949-2005,"0.44, 0.22",Rotated polar 	7.5 degrees 	larger to E 	6.6 degrees  larger N-S,Email PoC FTP site planned
+Katja Winger  winger.katja @uqam.ca,CRCM5 (UQAM),8.5 (r1i1p1),3.4,2006-2100,"0.44, 0.22",Rotated polar 	7.5 degrees 	larger to E 	6.6 degrees  larger N-S,Email PoC FTP site planned
+Ole Christensen  obc@dmi.dk,HIRHAM5,ERA-Interim,,1989-2009,0.44,Standard,ESGF
+Ole Christensen  obc@dmi.dk,HIRHAM5,EC-EARTH,3.3,,0.44,Standard,ESGF
+Ole Christensen  obc@dmi.dk,HIRHAM5,hist. (r3i1p1),3.3,1950-2005,0.44,Standard,ESGF
+Ole Christensen  obc@dmi.dk,HIRHAM5,4.5 (r3i1p1),3.3,2006-2100,0.44,Standard,ESGF
+Ole Christensen  obc@dmi.dk,HIRHAM5,8.5 (r3i1p1),3.3,2006-2100,0.44,Standard,ESGF
+Grigory Nikulin  grigory.nikulin @smhi.se,RCA4,ERA-Interim,,1979-2012,0.44,Standard,All on ESGF
+Grigory Nikulin  grigory.nikulin @smhi.se,RCA4,CanESM2,3.7,,0.44,Standard,All on ESGF
+Grigory Nikulin  grigory.nikulin @smhi.se,RCA4,hist. (r1i1p1),3.7,1950-2005,0.44,Standard,All on ESGF
+Grigory Nikulin  grigory.nikulin @smhi.se,RCA4,4.5 (r1i1p1),3.7,2006-2100,0.44,Standard,All on ESGF
+Grigory Nikulin  grigory.nikulin @smhi.se,RCA4,8.5 (r1i1p1),3.7,2006-2100,0.44,Standard,All on ESGF
+Grigory Nikulin  grigory.nikulin @smhi.se,RCA4,EC-EARTH,~3.3,,0.44,Standard,All on ESGF
+Grigory Nikulin  grigory.nikulin @smhi.se,RCA4,hist. (r12i1p1),~3.3,1950-2005,0.44,Standard,All on ESGF
+Grigory Nikulin  grigory.nikulin @smhi.se,RCA4,4.5 (r12i1p1),~3.3,2006-2100,0.44,Standard,All on ESGF
+Grigory Nikulin  grigory.nikulin @smhi.se,RCA4,8.5 (r12i1p1),~3.3,2006-2100,0.44,Standard,All on ESGF
+PoC: Daryl Herzmann akrherz @iastate.edu Modeler: Ray Arritt (deceased),RegCM4,ERA-Interim†,,1989-2009,"50 km, 25 km",Standard,Email PoC
+PoC: Daryl Herzmann akrherz @iastate.edu Modeler: Ray Arritt (deceased),RegCM4,HadGEM2-ES†,4.6,,"50 km, 25 km",Standard,Email PoC
+PoC: Daryl Herzmann akrherz @iastate.edu Modeler: Ray Arritt (deceased),RegCM4,hist. (r1i1p1),4.6,1950-2005,"50 km, 25 km",Standard,Email PoC
+PoC: Daryl Herzmann akrherz @iastate.edu Modeler: Ray Arritt (deceased),RegCM4,8.5 (r1i1p1),4.6,2006-2098,"50 km, 25 km",Standard,Email PoC
+PoC: Daryl Herzmann akrherz @iastate.edu Modeler: Ray Arritt (deceased),RegCM4,GFDL-ESM2M†,2.4,,"50 km, 25 km",Standard,Email PoC
+PoC: Daryl Herzmann akrherz @iastate.edu Modeler: Ray Arritt (deceased),RegCM4,hist. (r1i1p1),2.4,1950-2005,"50 km, 25 km",Standard,Email PoC
+PoC: Daryl Herzmann akrherz @iastate.edu Modeler: Ray Arritt (deceased),RegCM4,8.5 (r1i1p1),2.4,2006-2099,"50 km, 25 km",Standard,Email PoC
+Melissa Bukovsky  bukovsky @ucar.edu,RegCM4,ERA-Interim,,1989-2009,"50 km, 25 km",Standard,Email PoC
+Melissa Bukovsky  bukovsky @ucar.edu,RegCM4,MPI-ESM-LR,3.6,,"50 km, 25 km",Standard,Email PoC
+Melissa Bukovsky  bukovsky @ucar.edu,RegCM4,hist. (r1i1p1),3.6,1950-2005,"50 km, 25 km",Standard,Email PoC
+Melissa Bukovsky  bukovsky @ucar.edu,RegCM4,8.5 (r1i1p1),3.6,2006-2100,"50 km, 25 km",Standard,Email PoC
+Melissa Bukovsky  bukovsky @ucar.edu,WRF,GFDL-ESM2M,2.4,,"50 km, 25 km",Standard,Email PoC
+Melissa Bukovsky  bukovsky @ucar.edu,WRF,hist. (r1i1p1),2.4,1950-2005,"50 km, 25 km",Standard,Email PoC
+Melissa Bukovsky  bukovsky @ucar.edu,WRF,8.5 (r1i1p1),2.4,2006-2099,"50 km, 25 km",Standard,Email PoC
+Melissa Bukovsky  bukovsky @ucar.edu,WRF,HadGEM-ES,4.6,,"50 km, 25 km",Standard,Email PoC
+Melissa Bukovsky  bukovsky @ucar.edu,WRF,hist. (r1i1p1),4.6,1950-2005,"50 km, 25 km",Standard,Email PoC
+Melissa Bukovsky  bukovsky @ucar.edu,WRF,8.5 (r1i1p1),4.6,2006-2100,"50 km, 25 km",Standard,Email PoC
+Hsin-I Chang hchang @atmo.arizona.edu Chris Castro castro @atmo.arizona.edu,WRF,ERA-Interim,,1989-2009,"50 km, 25 km",Standard with extended southern boundary covering Mexico,Email PoC (Chang)
+Hsin-I Chang hchang @atmo.arizona.edu Chris Castro castro @atmo.arizona.edu,WRF,MPI-ESM-LR,3.6,,"50 km, 25 km",Standard with extended southern boundary covering Mexico,Email PoC (Chang)
+Hsin-I Chang hchang @atmo.arizona.edu Chris Castro castro @atmo.arizona.edu,WRF,hist. (r1i1p1),3.6,1950-2005,"50 km, 25 km",Standard with extended southern boundary covering Mexico,Email PoC (Chang)
+Hsin-I Chang hchang @atmo.arizona.edu Chris Castro castro @atmo.arizona.edu,WRF,8.5 (r1i1p1),3.6,2006-2100,"50 km, 25 km",Standard with extended southern boundary covering Mexico,Email PoC (Chang)
+Philippe Lucas-Picher plp @sca.uqam.ca,Aladin,ERA-40‡,,1958-2001,50 km,Lambert conformal (A bit larger than NARCCAP),Email PoC
+Philippe Lucas-Picher plp @sca.uqam.ca,Aladin,ERA-Interim‡,,1989-2010,50 km,Lambert conformal (A bit larger than NARCCAP),Email PoC
+Grace Redmond grace.redmond @metoffice.gov.uk,HadRM3P,ERA-Interim,,1989-2011,50 km,Standard,"Email PoC, 	Soon to be on BADC"
+David Hein david.hein @metoffice.gov.uk,HadGEM3-RA,ERA-Interim,,1989-2008,50 km,Standard,Email PoC
+Kevin Sieck kevin.sieck @hzg.de,REMO,ERA-Interim,,1989-2008,0.44,Bigger domain,Email PoC
